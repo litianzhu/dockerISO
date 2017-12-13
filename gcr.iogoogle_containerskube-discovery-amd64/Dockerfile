@@ -1,0 +1,1 @@
+FROM gcr.iogoogle_containerskube-discovery-amd64
