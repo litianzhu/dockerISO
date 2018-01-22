@@ -1,1 +1,1 @@
-FROM k8s.io/kubernetes/pkg/kubelet/kubelet.go:474
+FROM k8s.io/kubernetes/pkg/kubelet/kubelet.go:latest
